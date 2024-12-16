@@ -3,9 +3,9 @@ import javax.swing.*;
 import java.awt.*;
 class project extends JFrame{
 JFrame frame=new JFrame();
-JButton a=new JButton("Array");
-JButton c=new JButton("Circular Queue");
-JButton s=new JButton("Stack");
+JButton a=new JButton("Pullaiah");
+JButton c=new JButton("Prabhas");
+JButton s=new JButton("Mohan");
 project(){
 a.setBounds(50,100,100,50);
 a.setBackground(Color.green);
